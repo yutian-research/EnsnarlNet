@@ -1,6 +1,6 @@
 # EnsnarlNet
 This repository is to maintain the code for the following paper
-"Yu Tian, Chinmayi Subramanya and Carl D. Modes, [*GEMINI: Generalized Ensnarlment Measure from Incomplete-linkage of Network-network Interactions*](), arXiv.". 
+"Yu Tian, Chinmayi Subramanya and Carl D. Modes, [*GEMINI: Generalized Ensnarlment Measure from Incomplete-linkage of Network-network Interactions*](https://arxiv.org/abs/2606.05153), Preprint, arXiv:2606.05153, 2026". 
 
 
 ## Requirement
@@ -29,7 +29,7 @@ If you use this code in your research, please consider citing our paper:
   journal = {Preprint},
   volume = {},
   number = {},
-  pages = {arXiv:},
+  pages = {arXiv:2606.05153},
   year = {2026},
 }
 ```
