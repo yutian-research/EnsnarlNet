@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+
+# Data (large / restricted — see README for how to obtain)
+data/*.csv
+!data/README.md
+
+# Generated figures
+figures/
+
+# Figure outputs written by the notebooks (pio.write_image)
+notebooks/*.png
