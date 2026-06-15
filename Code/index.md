@@ -1,5 +1,5 @@
-In this folder, we include the code for GEMINI analysis.
+In this folder, we include the Python notebook for GEMINI analysis.
 
-"ensnarlNet_lattice_all.ipynb" contains the code for the analysis on ensnarled ladder and step lattices. 
+"01_synthetic_lattices.ipynb" contains the code for the analysis on ensnarled ladder and step lattices. 
 
-"ensnarlNet_data_all.ipynb" contains the code for the analysis of the real data of the mouse brain vasculature. 
+"02_real_data.ipynb" contains the code for the analysis of the real data of the mouse brain vasculature. 
