@@ -1,11 +1,9 @@
 # gemini-ensnarl
 
-## Introduction
-This repository contains code and analysis notebooks for **characterizing generalized ensnarlment of spatial networks** — quantifying and visualizing how embedded networks intertwine through one another via the incomplete Gauss linking integral and the corresponding operator. In particular, both the sign of the values and the absolute values are examined. 
+Python package and notebooks for **characterizing generalized ensnarlment of spatial networks** — quantifying and visualizing how embedded networks intertwine through one another via the incomplete Gauss linking integral and the corresponding operator. In particular, both the sign of the values and the absolute values are examined. 
 
-This repository accompanies the article **"GEMINI: Generalized Ensnarlment Measure from
-Incomplete-linkage of Network-network Interactions"** (Yu Tian, Chinmayi Subramanya,
-Carl D. Modes, 2026), [arXiv:2606.05153](https://arxiv.org/abs/2606.05153).
+This repository is to accompany the following paper
+"Yu Tian, Chinmayi Subramanya and Carl D. Modes, [*GEMINI: Generalized Ensnarlment Measure from Incomplete-linkage of Network-network Interactions*](https://arxiv.org/abs/2606.05153), Preprint, arXiv:2606.05153, 2026". 
 
 ## Repository layout
 
