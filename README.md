@@ -5,11 +5,6 @@ This repository is to maintain the code for the following paper
 
 ## Requirement
 The code is written in Python, and the following packages are required. 
-```bash
-python -m venv .venv && source .venv/bin/activate
-pip install -e .            # installs pygemini + dependencies
-# or: pip install -r requirements.txt
-```
 
 * [NumPy](https://github.com/numpy/numpy) = 2.0.2 (Matrix Manipulation)
 * [NetworkX](https://github.com/networkx/networkx) = 3.6.1 (Based Graph library)
