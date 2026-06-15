@@ -2,7 +2,7 @@
 
 Files used:
 
-- 'CD1-E-no1_iso3um_stitched_segmentation_bulge_size_3.0_atlas_processed.csv'
+- `CD1-E-no1_iso3um_stitched_segmentation_bulge_size_3.0_atlas_processed.csv`
 - `CD1-E-no1_iso3um_stitched_segmentation_bulge_size_3.0_nodes_processed.csv`
 - `CD1-E-no1_iso3um_stitched_segmentation_bulge_size_3.0_edges_processed.csv`
 
