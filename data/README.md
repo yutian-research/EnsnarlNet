@@ -20,7 +20,7 @@ These are obtained from the **VesselGraph** dataset, sample **`CD1-E_no1`** (the
 
 **Atlas** (`*_atlas_processed.csv`, `sep=';'`):
 
-Each row corresponds to a node, and each column corresponds to an Allen atlas region (the column names are in the format of ``Region_Acronym_[Acronym]'', where [Acronym] contains three characters)
+Each row corresponds to a node, and each column corresponds to an Allen atlas region (the column names are in the format of `Region_Acronym_[Acronym]`, where `[Acronym]` contains three characters)
 
 
 **Nodes** (`*_nodes_processed.csv`, `sep=';'`):
