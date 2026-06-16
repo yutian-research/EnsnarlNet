@@ -5,7 +5,7 @@ Python package and notebooks for **characterizing generalized ensnarlment of spa
 This repository is to accompany the following paper
 "Yu Tian, Chinmayi Subramanya and Carl D. Modes, [*GEMINI: Generalized Ensnarlment Measure from Incomplete-linkage of Network-network Interactions*](https://arxiv.org/abs/2606.05153), Preprint, arXiv:2606.05153, 2026". 
 
-## Repository layout
+## Content
 
 ```
 pygemini/                     Importable package — all reusable analysis code
@@ -40,7 +40,7 @@ pip install git+https://github.com/yutian-research/EnsnarlNet.git
 your edits to `gemini_ensnarl/` take effect immediately:
 
 ```bash
-git clone https://github.com/<your-account>/EnsnarlNet.git
+git clone https://github.com/yutian-research/EnsnarlNet.git
 cd EnsnarlNet
 python -m venv .venv
 source .venv/bin/activate
