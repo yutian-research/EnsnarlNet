@@ -66,7 +66,7 @@ pip install -e .            # editable install
 
 ## Acknowledgements
 
-The synthetic ensnarled ladder lattice geometries were originally produced with the `kirchhoff` / `goflow` packages by Felix Kramer (https://github.com/felixk1990). The lattice generators here have been rewritten as self-contained NetworkX builders (`pygemini/lattices.py`) that reproduce those geometries exactly, so that the package has no dependency on the original circuit machinery.
+The synthetic ensnarled ladder lattice geometries were originally produced with the `kirchhoff` package by Felix Kramer (https://github.com/felixk1990). The lattice generators here have been rewritten as self-contained NetworkX builders (`pygemini/lattices.py`) that reproduce those geometries exactly, so that the package has no dependency on the original circuit machinery.
 
 ## Data source
 
