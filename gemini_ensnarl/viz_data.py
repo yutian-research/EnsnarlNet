@@ -107,7 +107,7 @@ def dummy_colorbar_trace(vmin, vmax, colorscale, xval=0.8, thickness=10, len=0.4
             showscale=True,
             colorbar=dict(
                 # title='|Column Sum|',
-                titleside='right',
+                # titleside='right',
                 thickness=20,
                 len=len,
                 x=xval,
