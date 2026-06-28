@@ -8,7 +8,7 @@ This repository is to accompany the following paper
 ## Content
 
 ```
-pygemini/                     Importable package — all reusable analysis code
+gemini_ensnarl/                     Importable package — all reusable analysis code
   linking.py                 Incomplete Gauss linking integral between line segments
   signed.py                  Signed bipartite graph, signed biclustering analysis
   lattices.py                Synthetic lattice generators (periodic, ensnarled ladders)
